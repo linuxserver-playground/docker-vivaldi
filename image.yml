@@ -11,6 +11,11 @@ upstream:
     type: deb_packages
     index_url: https://repo.vivaldi.com/archive/deb/dists/stable/main/binary-amd64/Packages
     package: vivaldi-stable
+  sponsor:
+  - name: Donate to Vivaldi
+    url: https://vivaldi.com/donate/
+  - name: Contribute to Vivaldi
+    url: https://vivaldi.net/contribute/
 
 release:
   branch: master
